@@ -1,0 +1,3 @@
+Celery-Supervisor: How to restart a supervisor job to make newly updated celery-tasks working?
+https://stackoverflow.com/questions/26753818/celery-supervisor-how-to-restart-a-supervisor-job-to-make-newly-updated-celery
+    

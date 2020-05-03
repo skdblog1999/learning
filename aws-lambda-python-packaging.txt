@@ -1,0 +1,6 @@
+pip install --target ./package <packages>
+cd package
+zip -r9 function.zip .
+sudo mv function.zip ../
+cd ..
+zip -g function.zip lambda_function.py
